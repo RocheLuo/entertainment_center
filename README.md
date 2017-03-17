@@ -1,25 +1,25 @@
 # entertainment_center
 
-entertainment_center helps you to save your favorite movies and their relevant details including title, year of production, poster, and official movie trailer. entertainment_center uses a Python module called fresh_tomatoes.py to generate a webpage that displays your saved favorite movies.
+`entertainment_center` helps you to save your favorite movies and their relevant details including title, year of production, poster, and official movie trailer. `entertainment_center` uses a Python module called `fresh_tomatoes.py` to generate a webpage that displays your saved favorite movies.
 
-If you want to know more about fresh_tomatoes Python module, see [fresh_tomatoes](https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py).
+If you want to know more about `fresh_tomatoes` Python module, see [fresh_tomatoes](https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py).
 
 # Documentation
 
-The information related to how to get started, supported python version, and license is included in this documentation.
+The information related to supported python version, how to get started, and license is included in this documentation.
 
 - [Supported Python versions](#supported-python-versions)
 - [Quick start](#quick-start)
   - [Usage from Windows Command line](#usage-from-windows-command-line)
      - [Command line example](#command-line-example)
   - [Add your favorite movies](#add-your-favorite-movies)
-- [What's included](#what-is-included)
+- [What is included](#what-is-included)
 - [License](#license)
 
 
 ## Supported Python versions
 
-The entertainment_center supports Python 2.x.
+The entertainment_center basically supports Python 2.x.
 
 ## Quick start
 
@@ -27,7 +27,7 @@ The entertainment_center supports Python 2.x.
 
 To view the default favorite movies website in your browser:
 
-1. download the [project's files](https://github.com/ahmadnagib/entertainment_center) and put them together in one folder. 
+1. Download the [project's files](https://github.com/ahmadnagib/entertainment_center) and put them together in one folder. 
 2. Make sure that Python 2.x is added to your Windows environment variables.
 3. Open the command line and navigate to the folder's path.
 4. Run the command:
@@ -47,7 +47,7 @@ entertainment_center.py
 #### Command Line example
 
 ```
-folder_path\entertainment_center-master> py entertainment_center.py
+folder_path\entertainment_center-master>py entertainment_center.py
 ```
 
 ### Add your favorite movies
@@ -59,11 +59,11 @@ To add your customized favorite movies instead of my default favorite movies:
 your_favorite_movie = media.Movie("Movie Title", "Production Year",
                                   "Poster Image URL","Movie Trailer URL")
 ```
-3. Replace the intances names in the movies_list with the names of the newly added instances.
+3. Replace the intances names in the `movies_list` with the names of the newly added instances in the order that you want the movies to be shown in the website.
 
 ## What is included
 
-Within the download you'll find the following directories and files:
+Within the download you will find the following files:
 
 ```
 entertainment_center-master/
