@@ -28,7 +28,7 @@ The entertainment_center basically supports Python 2.x.
 To view the default favorite movies website in your browser:
 
 1. Download the [project's files](https://github.com/ahmadnagib/entertainment_center) and put them together in one folder. 
-2. Make sure that Python 2.x is added to your Windows environment variables.
+2. Make sure that Python 2.x is installed and added to your Windows environment variables.
 3. Open the command line and navigate to the folder's path.
 4. Run the command:
 ```
