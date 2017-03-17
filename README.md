@@ -53,7 +53,7 @@ folder_path\entertainment_center-master> py entertainment_center.py
 ### Add your favorite movies
 
 To add your customized favorite movies instead of my default favorite movies:
-1. Open '''entertainment_center.py''' file with any text editor.
+1. Open `entertainment_center.py` file with any text editor.
 2. Replace the instances found in the file with the instance of your own. They should look like:
 ```
 your_favorite_movie = media.Movie("Movie Title", "Production Year",
