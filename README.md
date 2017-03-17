@@ -10,9 +10,9 @@ The information related to how to get started, supported python version, and lic
 
 - [Supported Python versions](#supported-python-versions)
 - [Quick start](#quick-start)
--- [Usage from Windows Command line](#usage-from-windows-command-line)
---- [Command line example](#command-line-example)
--- [Add your favorite movies](#add-your-favorite-movies)
+  - [Usage from Windows Command line](#usage-from-windows-command-line)
+  - [Command line example](#command-line-example)
+  - [Add your favorite movies](#add-your-favorite-movies)
 - [What's included](#what's-included)
 - [License](#license)
 
