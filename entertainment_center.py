@@ -3,7 +3,6 @@ import fresh_tomatoes
 
 
 # Create Movie instances to store favorite movies information
-
 forrest_gump = media.Movie("Forrest Gump", "1994",
                            "https://images-na.ssl-images-amazon.com/images/M/MV5BYThjM2MwZGMtMzg3Ny00NGRkLWE4M2EtYTBiNWMzOTY0YTI4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY1000_CR0,0,757,1000_AL_.jpg",  # NOQA
                            "https://www.youtube.com/watch?v=bLvqoHBptjg")
@@ -42,12 +41,10 @@ this_boys_life = media.Movie("This Boy's Life", "1993",
 
 
 # Group movies instances in a list to pass them to open_movies_page() function
-
 movies_list = [you_ve_got_mail, the_aviator, catch_me_if_you_can, inception,
                forrest_gump, captain_phillips, the_terminal,
 			   talented_mr_ripley, this_boys_life]
 
 
 # Generate an HTML file producing a website showcasing my favorite movies
-
 fresh_tomatoes.open_movies_page(movies_list)
