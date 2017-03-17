@@ -13,7 +13,7 @@ The information related to how to get started, supported python version, and lic
   - [Usage from Windows Command line](#usage-from-windows-command-line)
      - [Command line example](#command-line-example)
   - [Add your favorite movies](#add-your-favorite-movies)
-- [What's included](#what's-included)
+- [What's included](#what-is-included)
 - [License](#license)
 
 
@@ -61,7 +61,7 @@ your_favorite_movie = media.Movie("Movie Title", "Production Year",
 ```
 3. Replace the intances names in the movies_list with the names of the newly added instances.
 
-## What's included
+## What is included
 
 Within the download you'll find the following directories and files:
 
