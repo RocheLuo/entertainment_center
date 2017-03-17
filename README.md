@@ -47,7 +47,7 @@ entertainment_center.py
 #### Command Line example
 
 ```
-folder_path\entertainment_center-master>py entertainment_center.py
+folder_path\entertainment_center-master>python entertainment_center.py
 ```
 
 ### Add your favorite movies
