@@ -41,7 +41,7 @@ this_boys_life = media.Movie("This Boy's Life", "1993",
 
 
 # Group movies instances in a list to pass them to open_movies_page() function
-movies_list = [you_ve_got_mail, the_aviator, catch_me, inception,
+movies_list = [you_ve_got_mail, the_aviator, catch_me_if_u_can, inception,
                forrest_gump, captain_phillips, the_terminal,
                talented_mr_ripley, this_boys_life]
 
