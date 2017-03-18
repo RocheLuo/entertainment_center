@@ -15,9 +15,9 @@ the_aviator = media.Movie("The Aviator", "2004",
                           "https://images-na.ssl-images-amazon.com/images/M/MV5BZTYzMjA2M2EtYmY1OC00ZWMxLThlY2YtZGI3MTQzOWM4YjE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",  # NOQA
                           "https://www.youtube.com/watch?v=FebPJlmgldE")
 
-catch_me_if_you_can = media.Movie("Catch Me If You Can", "2002",
-                                  "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",  # NOQA
-                                  "https://www.youtube.com/watch?v=71rDQ7z4eFg")
+catch_me = media.Movie("Catch Me If You Can", "2002",
+                        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",  # NOQA
+                        "https://www.youtube.com/watch?v=71rDQ7z4eFg")
 
 inception = media.Movie("Inception", "2010",
                         "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",  # NOQA
@@ -41,9 +41,9 @@ this_boys_life = media.Movie("This Boy's Life", "1993",
 
 
 # Group movies instances in a list to pass them to open_movies_page() function
-movies_list = [you_ve_got_mail, the_aviator, catch_me_if_you_can, inception,
+movies_list = [you_ve_got_mail, the_aviator, catch_me, inception,
                forrest_gump, captain_phillips, the_terminal,
-			   talented_mr_ripley, this_boys_life]
+               talented_mr_ripley, this_boys_life]
 
 
 # Generate an HTML file producing a website showcasing my favorite movies
