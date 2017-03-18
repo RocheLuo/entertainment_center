@@ -2,9 +2,9 @@ class Movie():
     """
     This class is created as a way to store movie-related information
     including movie title, year of production, poster image URL,
-	and movie trailer URL.
+    and movie trailer URL.
     """
-	
+
     def __init__(self, title, year, poster_image_url, trailer_youtube_url):
         """
         This function creates a movie instance that holds the passed details.
@@ -15,7 +15,7 @@ class Movie():
         poster_image_url: The link to the  movie's official poster.
         trailer_youtube_url: The link to the movie's youtube trailer.
         """
-        
+
         self.title = title
         self.year = year
         self.poster_image_url = poster_image_url
